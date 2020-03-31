@@ -26,8 +26,8 @@ kramdown:
 
 # Setup
 title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+tagline:             'A blog without dedication'
+description:         'shullick.io is a blog without a central theme.'
 url:                 https://github.com/minicomp/ed
 baseurl:             '/ed'
 

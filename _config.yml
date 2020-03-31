@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
+title:               shullick.io
+tagline:             "Michael Shullick's blog"
+description:         'where does this show up?'
+url:                 'https://shullick.io'
 baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Michael Shullick
+  url:               https://twitter.com/
+  email:             michael@shullick.io
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
