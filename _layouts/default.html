@@ -85,5 +85,8 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
   </body>
 </html>
