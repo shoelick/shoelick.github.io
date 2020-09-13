@@ -22,6 +22,8 @@ I have a single machine that needs to do a lot of stuff. It’s gotta enable me 
 
 So I says to Linux, “You get one box.” And it says, “ok”.
 
+My solution is to run an Arch Linux host system, and run virtualized instances of pfSense, Home Assistant, and Windows, each capable of near native-level security and performance.
+
 ## AUDIENCE
 
 I assume the reader has at least a moderate level of experience with Linux, and is familiar with basic operations on Arch Linux, such as package installation, distro conventions, and other common tasks. Additionally, I assume the reader knows which commands are appropriate to run as root.
