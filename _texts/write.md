@@ -38,3 +38,5 @@ To this end, I consider it a responsibility to write. I don't have all the answe
 I write to take my thoughts to conclusions. I publish to take them out of the vacuum of my head. I express these values to encourage civil discourse.
 
 ---
+
+Thanks for reading! Let me know your thoughts on [Twitter](https://shullick.io/texts/write/). You can expect more content about whatever I get inspired to write about in the future. Politics, tech things, whatever.
