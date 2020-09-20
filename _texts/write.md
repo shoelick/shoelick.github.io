@@ -16,7 +16,7 @@ On one hand, I'm _only_ 25, and can easily admit to knowing basically nothing ab
 
 So then the question becomes, _what if I don't write?_
 
-What if I continue to let my passing thoughts and opinions go unvetted? What if I get asked to share an opinion on an important subject, and I really only have a surface-level understanding that doesn't take into account nuance?  Most dangerously, what if this _modus operandi_ becomes my default? This, then, is my personal incentive: to sharpen the blade. Without doing so, I risk the softening of my mind and losing my capability to grow. And unfortunately, with these bodies of ours, there's rarely much treading water. You either sink or swim; you grow and actively maintain, or you stagnate.
+What if I continue to let my passing thoughts and opinions go unvetted? What if I get asked to share an opinion on an important subject, and I really only have a surface-level understanding that doesn't take into account nuance?  Most dangerously, what if this _modus operandi_ becomes my default? This, then, is my personal incentive: to sharpen the blade. Without doing so, I fear I will weaken my capacity to grow mentally. And unfortunately, with these bodies of ours, there's rarely much treading water. You either sink or swim; you grow and actively maintain, or you stagnate.
 
 _Okay, Michael,_ I hear you saying, _then just go talk things over with your friends over some brews, and don't bother the rest of the world with your petty ramblings._ This too has been a doubt of mine. Twitter and Fox and CNN make enough noise as it is, so why add to it? What do I possibly have to contribute?
 
