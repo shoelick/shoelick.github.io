@@ -20,19 +20,21 @@ What if I continue to let my passing thoughts and opinions go unvetted? What if 
 
 _Okay, Michael,_ I hear you saying, _then just go talk things over with your friends over some brews, and don't bother the rest of the world with your petty ramblings._ This too has been a doubt of mine. Twitter and Fox and CNN make enough noise as it is, so why add to it? What do I possibly have to contribute?
 
-The answer to this question has been a bit more difficult, but I've come to the conclusion that our nation is at a turning point. Tensions are high just about everywhere you look. Unemployment is rising.[^fn1] Politics are at a stalemate. Our culture is rotting. Our ability and intention to seek truth are dwindling, and mainstream coverage of the news is not helping. Public policy seems to be more shaped by public greed than national interest. And through all of this, we seem to decide that the correct response is to get upset, to point fingers, or to subscribe to apathy and ignore what's going on. None of these options make me excited to bring children into the world. If the only options are to sink or swim, I'm not convinced we're swimming. What's one to do in circumstances like these?
+The answer to this question has been a bit more difficult, but I've come to the conclusion that our nation is at a turning point. Tensions are high just about everywhere you look. Unemployment is rising.[^fn1] Politics are at a stalemate. Our culture is rotting. Our ability and intention to seek truth are dwindling, and mainstream coverage of the news is not helping. Public policy seems to be more shaped by greed than national interest. And through all of this, we seem to decide that the correct response is to get upset, to point fingers, or to subscribe to apathy and ignore what's going on. None of these options make me excited to bring children into the world. If the only options are to sink or swim, I'm not convinced we're swimming. What's one to do in circumstances like these?
 
-[^fn1]: I'm not referring to the official statistic for the number of people actively seeking a job. I'm referring to labor force participation rate, as outlined by Andrew Yang in his [_War on Normal People_](https://www.amazon.com/War-Normal-People-Disappearing-Universal-ebook/dp/B075CRY4TZ/ref=sr_1_1?dchild=1&keywords=war+on+normal+people&qid=1600576041&sr=8-1). The discussed in headlines probably doesn't refer to what you think it does. We'll talk about it later.
+[^fn1]: I'm not referring to the official statistic for the number of people actively seeking a job. I'm referring to labor force participation rate, as outlined by Andrew Yang in his [_War on Normal People_](https://www.amazon.com/War-Normal-People-Disappearing-Universal-ebook/dp/B075CRY4TZ/ref=sr_1_1?dchild=1&keywords=war+on+normal+people&qid=1600576041&sr=8-1). The statistic discussed in headlines probably doesn't refer to what you think it does. We'll talk about it later.
 
 > We must take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented.
 
 > [Elie Wiesel, Nobel Prize Speech](https://eliewieselfoundation.org/elie-wiesel/nobelprizespeech/)
 
 
-The answer is to engage. Why should we allow the hoards on Twitter or the news anchors on CNN or Fox to shape the public narrative? These media encourage polarization, action based on misinformation, and allow no room for nuance. For those stuck inside the bubble, I write to draw the curtain and reveal a world that is not black and white. For those alienated by the sensationalism, I write to offer a nuanced perspective worth chewing on. For future generations, I write to call out today's failures for what they are so that we may build a brighter tomorrow.
+The answer is to engage. Why should we allow the hoards on Twitter or the news anchors on CNN or Fox to shape the public narrative? These media encourage polarization and action based on misinformation, and they allow no room for nuance. For those stuck inside the bubble, I write to draw the curtain and reveal a world that is not black and white. For those alienated by the sensationalism, I write to offer a nuanced perspective worth chewing on. For future generations, I write to call out today's failures for what they are so that we may build a brighter tomorrow.
 
 To this end, I consider it a responsibility to write. I don't have all the answers, and the impact of my content will probably be minimal, but I can only improve the world by improving myself, and that starts with opening myself up for civil discourse. The only way we fix this country is by incrementalism, and I choose to move forward.
 
 ---
 
 I write to take my thoughts to conclusions. I publish to take them out of the vacuum of my head. I express these values to encourage civil discourse.
+
+---
