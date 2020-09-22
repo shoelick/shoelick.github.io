@@ -39,4 +39,4 @@ I write to take my thoughts to conclusions. I publish to take them out of the va
 
 ---
 
-Thanks for reading! Let me know your thoughts on [Twitter](https://shullick.io/texts/write/). You can expect more content about whatever I get inspired to write about in the future. Politics, tech things, whatever.
+Thanks for reading! Let me know your thoughts on [Twitter](https://twitter.com/splattern). You can expect more content about whatever I get inspired to write about in the future. Politics, tech things, whatever.
